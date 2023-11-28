@@ -1,6 +1,6 @@
 import SJButton from "@/components/commonComponents/SJButton/SJButton"
 import { SJButtonColorScheme } from "../SJButton/helpers"
-import { modalContainerClass, innerContainerClass, buttonClass, childrenClass } from "./classes";
+import { modalContainerClass, innerContainerClass, buttonClass, childrenClass } from "./styleClasses";
 
 export interface SJConfirmationModalProps {
     children: string[] | string;
